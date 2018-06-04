@@ -17,22 +17,15 @@ body {
   text-align: center;
 }
 
-.contactItem{
+.contactItem {
   display: inline-block;
   margin: 15px;
-}
-}
-.contactForm {
-  justify-content: center;
-  padding: 50px;
-  text-align: center;
 }
 
 .app {
   border: 1px solid black;
 }
 
-.contactItem{
-  display: inline-block;
-  margin: 15px;
+.contactImage {
+  width: 100px;
 } 
