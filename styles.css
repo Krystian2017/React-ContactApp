@@ -1,0 +1,38 @@
+body {
+  padding: 20px;
+}
+
+.app {
+  text-align: center;
+  background-color: #33cccc;
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+
+.contactForm {
+  justify-content: center;
+  padding: 50px;
+  text-align: center;
+}
+
+.contactItem{
+  display: inline-block;
+  margin: 15px;
+}
+}
+.contactForm {
+  justify-content: center;
+  padding: 50px;
+  text-align: center;
+}
+
+.app {
+  border: 1px solid black;
+}
+
+.contactItem{
+  display: inline-block;
+  margin: 15px;
+} 
